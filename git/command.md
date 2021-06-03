@@ -70,3 +70,15 @@ git remote add <remote name> <URL>
 git push origin master
 ```
 
+##### status
+
+git 의 현재상태를 확인하는 명령어
+
+
+
+- 기본 명령어
+
+```bash
+git status
+```
+
